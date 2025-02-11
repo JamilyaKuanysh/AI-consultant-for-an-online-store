@@ -51,22 +51,22 @@
 ## Примеры интерфейса
 
 ### Пример 1: Главная страница интернет-магазина
-![Главная страница](https://github.com/ZerocoderForstudents/AI-consultant-for-an-online-store/blob/main/screenshots/Screenshot_1.png)
+![Главная страница](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/3d76c5555a7a43a30b9b08b7cbc5f4919c86aa1b/screenshots/Screenshot_1.png)
 
 ### Пример 2: Работа Telegram-бота
-![Работа бота](https://github.com/ZerocoderForstudents/AI-consultant-for-an-online-store/blob/main/screenshots/Screenshot_2.png)
+![Работа бота](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/3d76c5555a7a43a30b9b08b7cbc5f4919c86aa1b/screenshots/Screenshot_2-2.png)
 
 ### Пример 3: Каталог товаров
-![Каталог товаров](https://github.com/ZerocoderForstudents/AI-consultant-for-an-online-store/blob/main/screenshots/Screenshot_29.png)
+![Каталог товаров](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/3d76c5555a7a43a30b9b08b7cbc5f4919c86aa1b/screenshots/Screenshot_29.png)
 
 ### Пример 4: Интеграция с платформами
-![Интеграция с платформами](https://github.com/ZerocoderForstudents/AI-consultant-for-an-online-store/blob/main/screenshots/Screenshot_3.png)
+![Интеграция с платформами](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/3d76c5555a7a43a30b9b08b7cbc5f4919c86aa1b/screenshots/Screenshot_3-2.png)
 
 ### Пример 5: Настройка бота
-![Настройка бота](https://github.com/ZerocoderForstudents/AI-consultant-for-an-online-store/blob/main/screenshots/Screenshot_4.png)
+![Настройка бота](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/3d76c5555a7a43a30b9b08b7cbc5f4919c86aa1b/screenshots/Screenshot_4.png)
 
 ### Пример 6: Уведомления о заказах
-![Уведомления о заказах](https://github.com/ZerocoderForstudents/AI-consultant-for-an-online-store/blob/main/screenshots/Screenshot_5.png)
+![Уведомления о заказах](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/3d76c5555a7a43a30b9b08b7cbc5f4919c86aa1b/screenshots/Screenshot_5.png)
 
 ## Инструкция по запуску
 1. Создайте учетные записи на платформах SendPulse и Rebus.
