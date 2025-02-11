@@ -51,13 +51,13 @@
 ## Примеры интерфейса
 
 ### Пример 1: Главная страница интернет-магазина
-![Главная страница](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/3d76c5555a7a43a30b9b08b7cbc5f4919c86aa1b/screenshots/Screenshot_1.png)
+![Главная страница](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/ee5812c8a19bbf1860334cc7483e6303b68caa3a/screenshots/Screenshot_2-2.png)
 
 ### Пример 2: Работа Telegram-бота
-![Работа бота](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/3d76c5555a7a43a30b9b08b7cbc5f4919c86aa1b/screenshots/Screenshot_2-2.png)
+![Работа бота](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/ee5812c8a19bbf1860334cc7483e6303b68caa3a/screenshots/Screenshot_1.png)
 
 ### Пример 3: Каталог товаров
-![Каталог товаров](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/3d76c5555a7a43a30b9b08b7cbc5f4919c86aa1b/screenshots/Screenshot_29.png)
+![Каталог товаров](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/ee5812c8a19bbf1860334cc7483e6303b68caa3a/screenshots/Screenshot_29.png)
 
 ### Пример 4: Интеграция с платформами
 ![Интеграция с платформами](https://github.com/JamilyaKuanysh/AI-consultant-for-an-online-store/blob/3d76c5555a7a43a30b9b08b7cbc5f4919c86aa1b/screenshots/Screenshot_3-2.png)
